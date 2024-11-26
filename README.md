@@ -161,9 +161,8 @@ temple.html
 ```
 
 ## OUTPUT
-
-![alt text](<Screenshot 2024-11-25 143732-2.png>)
-![alt text](<Screenshot 2024-11-25 143722-1.png>)
+![alt text](<Screenshot 2024-11-25 143732.png>)
+![alt text](<Screenshot 2024-11-26 200923-1.png>)
 ![alt text](<Screenshot 2024-11-25 143925.png>)
 ![alt text](<Screenshot 2024-11-25 143938.png>)
 ![alt text](<Screenshot 2024-11-25 144004.png>)
